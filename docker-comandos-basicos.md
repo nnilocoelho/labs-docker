@@ -83,7 +83,7 @@ docker container rm -f ID_CONTAINER
 #### Configurações de CPU e Memória
 ```bash
 
-# INFORMARÇÕES EM TEMPO REAL, CPU, MEMORIA ETC.
+# INFORMAÇÕES EM TEMPO REAL, CPU, MEMORIA ETC.
 docker container stats [ID CONTAINER]
 
 # INFORMAÇÕES DE PROCESSOS EM EXECUÇÃO
